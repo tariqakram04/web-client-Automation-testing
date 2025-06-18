@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# VSCode and environment
+.vscode/
+.env
+.venv/
+
+# Test artifacts
+reports/
+*.log
+htmlcov/
+
+# Pytest cache
+.pytest_cache/
